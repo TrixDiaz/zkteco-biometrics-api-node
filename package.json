@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
-    "start": "node server.js --port 3000 --host"
+    "start": "node server.js --port=3000 --host 0.0.0."
   },
   "keywords": [],
   "author": "",
